@@ -590,3 +590,547 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 #EXTINF:0,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+
+//======================================================================//
+//	TV NASIONAL							//
+//======================================================================//
+#EXTINF:-1 group-title="TV NASIONAL",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",TRANS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",TRANS7
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",BTV
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",BERITA SATU
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",RCTI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",MNCTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",GTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",INEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",MDTV
+http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",TVRI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",ANTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",TV ONE
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",METRO TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",KOMPAS TV
+http://103.160.205.142:9999/stream/channelid/1444379690?profile=pass
+
+
+//======================================================================//
+//	TV DAERAH							//
+//======================================================================//
+#EXTINF:0 group-title="TV DAERAH",BALI TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
+#EXTINF:0 group-title="TV DAERAH",TVMU
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
+#EXTINF:0 group-title="TV DAERAH",MUSLIM TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
+#EXTINF:0 group-title="TV DAERAH",BANDUNG TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
+#EXTINF:0 group-title="TV DAERAH",JAK TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
+#EXTINF:0 group-title="TV DAERAH",JTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
+#EXTINF:0 group-title="TV DAERAH",HANACARAKA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
+#EXTINF:-1 group-title="TV DAERAH",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 group-title="TV DAERAH",GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 group-title="TV DAERAH",ELSHINTA TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+#EXTINF:-1 group-title="TV DAERAH",NUSANTARA TV
+http://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV DAERAH",MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV DAERAH",OXYGEN TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+#EXTINF:-1 group-title="TV DAERAH",TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+#EXTINF:-1 group-title="TV DAERAH",MATRIX TV
+https://stream.matrixtv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV DAERAH",JTV KEDIRI
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="TV DAERAH",STARA TV BDG
+https://bandung.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV DAERAH",STARA TV MLG
+https://malang.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV DAERAH",STARA TV CJR
+https://cianjur.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV DAERAH",STARA TV MJL
+https://stream.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV DAERAH",BRTV
+https://stream.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV DAERAH",FICOM
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 group-title="TV DAERAH",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 group-title="TV DAERAH",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+//======================================================================//
+//	NEWS								//
+//======================================================================//
+#EXTINF:0 group-title="NEWS",RT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000153/1024.m3u8
+#EXTINF:0 group-title="NEWS",DW
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
+#EXTINF:0 group-title="NEWS",BBC NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+#EXTINF:0 group-title="NEWS",BBC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
+#EXTINF:0 group-title="NEWS",ALJAZEERA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
+#EXTINF:0 group-title="NEWS",ABC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
+#EXTINF:-1 group-title="NEWS",CNBC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
+#EXTINF:-1 group-title="NEWS",FOX NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+#EXTINF:-1 group-title="NEWS",CGTN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+#EXTINF:-1 group-title="NEWS",EURONEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
+#EXTINF:-1 group-title="NEWS",CNA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
+#EXTINF:-1 group-title="NEWS",NHK WORLD
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+EXTINF:-1 group-title="NEWS",IDX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
+
+
+//======================================================================//
+//	SPORT								//
+//======================================================================//
+#EXTINF:-1 group-title="SPORT",STARZPLAY SPORTS 1
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/254310.ts
+#EXTINF:-1 group-title="SPORT",STARZPLAY SPORTS 2
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/254309.ts
+#EXTINF:-1 group-title="SPORT",STARZPLAY SPORTS 3
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/252862.ts
+#EXTINF:-1 group-title="SPORT",STARZPLAY CRICLIFE 1
+https://www.redbooks.site/x11.php?id=371469.m3u8
+#EXTINF:-1 group-title="SPORT",DSTV PREMIER LEAGUE
+https://www.redbooks.site/x11.php?id=238478.m3u8
+#EXTINF:-1 group-title="SPORT",ESPN 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
+#EXTINF:-1 group-title="SPORT",ESPN 5
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+#EXTINF:-1 group-title="SPORT",ESPN 6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+#EXTINF:0 group-title="SPORT",BEIN SPORT 1
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/2541.ts
+#EXTINF:0 group-title="SPORT",BEIN SPORT 2
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/2540.ts
+#EXTINF:0 group-title="SPORT",BEIN SPORT 3
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/2538.ts
+#EXTINF:0 group-title="SPORT",BEIN SPORT 4
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/10795.ts
+#EXTINF:0 group-title="SPORT",BEIN SPORT 5
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/245831.ts
+#EXTINF:0 group-title="SPORT",BEIN SPORT 6
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/245830.ts
+#EXTINF:0 group-title="SPORT",BEIN SPORT 7
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1269958.ts
+#EXTINF:0 group-title="SPORT",BEIN SPORT 8
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/2533.ts
+#EXTINF:0 group-title="SPORT",BEIN SPORT 9
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1269960.ts
+#EXTINF:0 group-title="SPORT",BEIN SPORT XTRA ES
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:0 group-title="SPORT",HUB SPORTS 1
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport1.m3u8
+#EXTINF:0 group-title="SPORT",HUB SPORTS 2
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport2.m3u8
+#EXTINF:0 group-title="SPORT",HUB SPORTS 3
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport3.m3u8
+#EXTINF:0 group-title="SPORT",HUB SPORTS 4
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport4.m3u8
+#EXTINF:0 group-title="SPORT",HUB PREMIER 1 FHD
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
+#EXTINF:0 group-title="SPORT",HUB PREMIER 2 FHD
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier2.m3u8
+#EXTINF:0 group-title="SPORT",HUB PREMIER 3 FHD
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier3.m3u8
+#EXTINF:0 group-title="SPORT",HUB PREMIER 4 FHD
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier4.m3u8
+#EXTINF:0 group-title="SPORT",HUB PREMIER 5 FHD
+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier5.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS 1
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports1.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS 2
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports2.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS 3
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports3.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS 4
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports4.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS 5
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports5.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS 6
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports6.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS 7
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports7.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS PL1
+https://www.redbooks.site/x11.php?id=223056.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS PL2
+https://www.redbooks.site/x11.php?id=223057.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS PL3
+https://www.redbooks.site/x11.php?id=223058.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS PL4
+https://www.redbooks.site/x11.php?id=223059.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS PL5
+https://www.redbooks.site/x11.php?id=223060.m3u8
+#EXTINF:0 group-title="SPORT",NOW SPORTS PL6
+https://www.redbooks.site/x11.php?id=223061.m3u8
+#EXTINF:0 group-title="SPORT",TRUESPORTS 1 HD
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport1.m3u8
+#EXTINF:0 group-title="SPORT",TRUESPORTS 2 HD
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport2.m3u8
+#EXTINF:0 group-title="SPORT",TRUESPORTS 3 HD
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport3.m3u8
+#EXTINF:0 group-title="SPORT",TRUESPORTS 7
+https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/truesport7.m3u8
+#EXTINF:0 group-title="SPORT",ALWAN SPORT 1
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641624.ts
+#EXTINF:0 group-title="SPORT",ALWAN SPORT 2
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641625.ts
+#EXTINF:0 group-title="SPORT",ALWAN SPORT 3
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.ts
+#EXTINF:0 group-title="SPORT",ALWAN SPORT 3
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.ts
+#EXTINF:0 group-title="SPORT",ALWAN SPORT 4
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641627.ts
+#EXTINF:0 group-title="SPORT",ALWAN SPORT 5
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641628.ts
+#EXTINF:0 group-title="SPORT",ALWAN SPORT 6
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641629.ts
+#EXTINF:0 group-title="SPORT",ARENA SPORT 1
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/490261
+#EXTINF:0 group-title="SPORT",ARENA SPORT 2
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/490260
+#EXTINF:0 group-title="SPORT",ARENA SPORT 3
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/490259
+#EXTINF:0 group-title="SPORT",ARENA ESPORT
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/520814
+#EXTINF:0 group-title="SPORT",ARENA FIGHT
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/386413
+#EXTINF:0 group-title="SPORT",SPOTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+#EXTINF:0 group-title="SPORT",SPOTV 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#EXTINF:0 group-title="SPORT",SPORTSTAR 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+#EXTINF:0 group-title="SPORT",SPORTSTAR 4
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+#EXTINF:0 group-title="SPORT",SOCCER CHANNEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+#EXTINF:0 group-title="SPORT",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTINF:0 group-title="SPORT",OMAN SPORT
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:0 group-title="SPORT",FIGHT SPORT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+#EXTINF:0 group-title="SPORT",TVRI SPORT
+https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
+#EXTINF:0 group-title="SPORT",UNIFI SPORT
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:0 group-title="SPORT",REAL MADRID
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:0 group-title="SPORT",INTER
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:0 group-title="SPORT",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="SPORT",DAZN HELDINNEN
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8
+#EXTINF:0 group-title="SPORT",DAZN RINGSIDE
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8
+#EXTINF:0 group-title="SPORT",FOX SPORT 1
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1846.ts
+#EXTINF:0 group-title="SPORT",FOX SPORT 2
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1847.ts
+#EXTINF:0 group-title="SPORT",DUBAI SPORT 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+#EXTINF:0 group-title="SPORT",DUBAI SPORT 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:0 group-title="SPORT",DUBAI SPORT 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:0 group-title="SPORT",MOTOR RACING
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:0 group-title="SPORT",MOTORVISION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:0 group-title="SPORT",MTRSPT 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+#EXTINF:0 group-title="SPORT",BAHRAIN SPORT 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:0 group-title="SPORT",BAHRAIN SPORT 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:0 group-title="SPORT",BELATOR MMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8
+#EXTINF:0 group-title="SPORT",UNBEATEN
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="SPORT",K SPORT
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:0 group-title="SPORT",K SPORT +
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:0 group-title="SPORT",LA LIGA INSIDE
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+#EXTINF:0 group-title="SPORT",RIGHT NOW TV
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+#EXTINF:0 group-title="SPORT",SPORT KLUB
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/374481
+#EXTINF:0 group-title="SPORT",SPORT KLUB 1
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362711
+#EXTINF:0 group-title="SPORT",SPORT KLUB 2
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362710
+#EXTINF:0 group-title="SPORT",SPORT KLUB 3
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362709
+#EXTINF:0 group-title="SPORT",SPORT KLUB 4
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362708
+#EXTINF:0 group-title="SPORT",SPORT KLUB 5
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362707
+#EXTINF:0 group-title="SPORT",SPORT KLUB 6
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362706
+#EXTINF:0 group-title="SPORT",SPORT KLUB 8
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/301245
+#EXTINF:0 group-title="SPORT",SPORT KLUB GOLF
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/259985
+#EXTINF:0 group-title="SPORT",SPORT KLUB FIGHT
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/552753
+#EXTINF:0 group-title="SPORT",AL KHASS 3
+https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/chunklist_w970485596.m3u8
+#EXTINF:0 group-title="SPORT",COLIMDO TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:0 group-title="SPORT",AYM SPORT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:0 group-title="SPORT",GAME
+https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
+#EXTINF:0 group-title="SPORT",NITRO CIRCUS
+https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist240P.m3u8
+#EXTINF:0 group-title="SPORT",AWSN
+https://jmp2.uk/plu-682e43b21295f98347710917.m3u8
+#EXTINF:0 group-title="SPORT",PLUTO F1
+https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
+#EXTINF:0 group-title="SPORT",PLUTO FIFA+
+https://jmp2.uk/plu-63d91d2560bc8f0008a225e4.m3u8
+#EXTINF:0 group-title="SPORT",TENNIS 2
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+
+
+
+//======================================================================//
+//	MOVIES							//
+//======================================================================//
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/d/1rxy1PGA3fOyVua3akUlVwmPZMjcPHX-1" group-title="MOVIES",DREAMWORKS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+#EXTINF:0 group-title="MOVIES",MOONBUG
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
+#EXTINF:0 group-title="MOVIES",ZOO MOO
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
+#EXTINF:0 group-title="MOVIES",OUTDOOR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
+#EXTINF:0 group-title="MOVIES",BUDDY STAR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+#EXTINF:0 group-title="MOVIES",SUPERRIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+#EXTINF:0 group-title="MOVIES",ORIGINAL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+#EXTINF:0 group-title="MOVIES",CINEEDGE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+#EXTINF:0 group-title="MOVIES",ONE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+#EXTINF:0 group-title="MOVIES",ANIMAX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+#EXTINF:0 group-title="MOVIES",STUDIO UNIVERSAL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
+#EXTINF:0 group-title="MOVIES",ROCK ACTION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
+#EXTINF:0 group-title="MOVIES",CRIME INVESTIGATION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
+#EXTINF:0 group-title="MOVIES",MAKKAH LIVE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
+#EXTINF:0 group-title="MOVIES",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#EXTINF:0 group-title="MOVIES",HBO+
+http://play.dnsrot.vip/live/silvan9966/ji1m1shoaet/37083.ts
+#EXTINF:0 group-title="MOVIES",HBO 2
+http://play.dnsrot.vip/live/silvan9966/ji1m1shoaet/37086.ts
+#EXTINF:0 group-title="MOVIES",HBO POP
+http://play.dnsrot.vip/live/silvan9966/ji1m1shoaet/36911.ts
+#EXTINF:0 group-title="MOVIES",HBO XTREME
+http://play.dnsrot.vip/live/silvan9966/ji1m1shoaet/37074.ts
+#EXTINF:0 group-title="MOVIES",HBO HITS
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:0 group-title="MOVIES",HBO FAMILY
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#EXTINF:0 group-title="MOVIES",HBO SIGNATURE
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#EXTINF:0 group-title="MOVIES",CINEMAX
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#EXTINF:0 group-title="MOVIES",CELEBRITIES TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
+#EXTINF:0 group-title="MOVIES",STAR ENTERTAINMENT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTINF:0 group-title="MOVIES",SONY PIX HD
+http://15.235.180.97:80/live.ts?channelId=189&uid=4166&deviceMac=00:1A:79:F3:9F:F5&redir=1
+#EXTINF:0 group-title="MOVIES",AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="MOVIES",CCM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+#EXTINF:0 group-title="MOVIES",ROCK ENTERTAINMENT
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+#EXTINF:0 group-title="MOVIES",ZEE BIOSKOP
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
+#EXTINF:0 group-title="MOVIES",MY CINEMA ASIA
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
+#EXTINF:0 group-title="MOVIES",MY CINEMA EUROPE
+https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
+#EXTINF:0 group-title="MOVIES",AXN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
+#EXTINF:0 group-title="MOVIES",KIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+#EXTINF:0 group-title="MOVIES",THRILL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA CINEMA HD
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA JUNIOR
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA FAMILY
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA ONE
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA TWO
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA SCIENCE
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA LATINO
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA SONNATI
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA NOSTALGIA
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA TURKIYE
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA KOREA
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA IRAN
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",PERSIANA
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",GALAXY Premium
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+#EXTINF:0 group-title="MOVIES",LIFETIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
+#EXTINF:0 group-title="MOVIES",CGTN DOCUMENTARY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+#EXTINF:0 group-title="MOVIES",HISTORY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+#EXTINF:0 group-title="MOVIES",STARS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
+#EXTINF:0 group-title="MOVIES",BBC DRAMA
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/720p/index.m3u8
+#EXTINF:0 group-title="MOVIES",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",I FILM
+https://live.presstv.ir/hls/ifilmen_4_482/index.m3u8
+#EXTINF:0 group-title="MOVIES",I FILM 2
+https://live.presstv.ir/hls/ifilm2_4_482/index.m3u8
+#EXTINF:0 group-title="MOVIES",GRAND CINEMA
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:0 group-title="MOVIES",DISCOVERY FILM
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:0 group-title="MOVIES",ELECTRIK NOW
+https://elec-en.otteravision.com/elec/en/elec_en_1080p.m3u8
+#EXTINF:0 group-title="MOVIES",DARK MATTER
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/512.m3u8
+#EXTINF:0 group-title="MOVIES",RCM
+https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="MOVIES",ACTION HOLLYWOOD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="MOVIES",MBC BOLLYWOOD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:0 group-title="MOVIES",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:0 group-title="MOVIES",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:0 group-title="MOVIES",AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:0, group-title="MOVIES",Hits Now
+http://139.99.60.114:14052/
+
+
+#EXTINF:-1,HBO HD
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1,HBO HITS
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1,HBO SIGNATURE
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1,HBO FAMILY
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1,CINEMAX
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1,ROCK ACTION
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+
+#EXTINF:-1,ROCK ENTERTAINMENT
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+
+#EXTINF:-1,THRILL
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+
+#EXTINF:-1,AXN
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTINF:-1,HITS NOW
+https://cdn10jtedge.indihometv.com/atm/DASH/hitsnow/manifest.mpd
+
+#EXTINF:-1,Studio Universal
+https://cdn10jtedge.indihometv.com/atm/DASH/studiouniversal/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="HBO1" tvg-name="HBO 1" tvg-logo="" group-title="ENTERTAINMENT",HBO 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="" group-title="ENTERTAINMENT",HBO 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
+
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="" group-title="ENTERTAINMENT",HBO XTREME
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
