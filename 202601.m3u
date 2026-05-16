@@ -987,10 +987,24 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF:0 group-title="MOVIES",CELEBRITIES TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",TLC HD
+http://tv.cloudcdn.me:80/live.ts?channelId=205&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF:0 group-title="MOVIES",STAR ENTERTAINMENT HD
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTINF:0 group-title="MOVIES",STAR SELECT HD
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTINF:0 group-title="MOVIES",COMEDI
+http://tv.cloudcdn.me:80/live.ts?channelId=478&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTINF:0 group-title="MOVIES",SONY MAX HD
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTINF:0 group-title="MOVIES",SONY MAX SD
+http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTINF:0 group-title="MOVIES",STAR GOLD THRILL
+http://tv.cloudcdn.me:80/live.ts?channelId=215&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF:0 group-title="MOVIES",SONY PIX HD
-http://15.235.180.97:80/live.ts?channelId=189&uid=4166&deviceMac=00:1A:79:F3:9F:F5&redir=1
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+#EXTINF:0 group-title="MOVIES",SONY PIX HD old
+http://15.235.180.97:80/live.ts?channelId=189&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF:0 group-title="MOVIES",AVA FAMILY
 https://familyhls.avatv.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="MOVIES",CCM
