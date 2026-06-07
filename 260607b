@@ -417,9 +417,9 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
 
 ===================================================================================================== [Channel Lokal Ends] =====================================================================================================
 
-//========================================================================
+=========================================================================
 == Koleksi Biznet ==
-//========================================================================
+=========================================================================
 
 #EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkjJQwE5jnI7lw_eKYLTgsnrx-Z2eqlmcTjKN0JXS8Y3hGJlErDgi6YoPimYFOhaI8dZY0PyeTfYS15SAUHcfCT-Pt4MRFP6Ccf0WKPi0cWqcaiPAJFbPmWrvaTZ83gqpbN1XG4qiqV3Szt-O27na-_h78voB8njGs5xsISPxOvVR6mSyQ1HRIr8D893s/s700/BAdventure.png" group-title="Biznet",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -431,8 +431,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 
 ================================================== [END] ==================================================
-
-===========================================================================================================================================================================================================================================================================================================================================================================================================================
 
 ===================================================================================================== [HBO Group Starts] =====================================================================================================
 
@@ -454,8 +452,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 ===================================================================================================== [HBO Group Ends] =====================================================================================================
-
-===========================================================================================================================================================================================================================================================================================================================================================================================================================
 
 ===================================================================================================== [Max Group Starts] =====================================================================================================
 
@@ -997,9 +993,9 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 
 #EXTM3U
 
-//========================================================================
+=========================================================================
 == Live Event ==
-//========================================================================
+=========================================================================
 =========================================================================================================== [Live Event] ===========================================================================================================
 
 #EXTINF:-1 tvg-id="tvri.sport.id" tvg-name="tvri sport" group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEEQLkwsBfX7uk8ATBEloUOVKlDNjUoQTxF7p_zv4PzVehEFwTcuEB5iXzftF5N2zXK01xgzrbwld7d3RR6nfkS51TuftSPoc05RhXlFDcQwbrOWkJ_yPs14hZBwBTsY9pDi4GgUb8E8uy9GQGqZGdGQJqwc6eIsREptqY1M1qhfpkRuOhqTLRskOp_8/s700/TVRISportsTV.jpg",TVRI Sports
@@ -1161,13 +1157,13 @@ https://hotlivezz179026907.akainu.xyz/Ae5vIzTQ92RFWOlyM282CQ/Fv2lucGIbhPi2caWYvF
 
 =========================================================================================================== [Live Event] ===========================================================================================================
 
-//========================================================================
+=========================================================================
 == Live Event ==
-//========================================================================
+=========================================================================
 
-//========================================================================
+=========================================================================
 == Local Channel ==
-//========================================================================
+=========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="Local",TVRI
@@ -1507,15 +1503,15 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
 https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
 
-//========================================================================
+=========================================================================
 == Local Channel ==
-//========================================================================
+=========================================================================
 
 ================================================== [END] ==================================================
 
-//========================================================================
+=========================================================================
 == Koleksi Biznet ==
-//========================================================================
+=========================================================================
 
 #EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkjJQwE5jnI7lw_eKYLTgsnrx-Z2eqlmcTjKN0JXS8Y3hGJlErDgi6YoPimYFOhaI8dZY0PyeTfYS15SAUHcfCT-Pt4MRFP6Ccf0WKPi0cWqcaiPAJFbPmWrvaTZ83gqpbN1XG4qiqV3Szt-O27na-_h78voB8njGs5xsISPxOvVR6mSyQ1HRIr8D893s/s700/BAdventure.png" group-title="Biznet",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -1528,9 +1524,9 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 
 ================================================== [END] ==================================================
 
-//========================================================================
+=========================================================================
 == Religion Channel ==
-//========================================================================
+=========================================================================
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaLCwREOuMz-CFiqOSJRZqTu0ScQ58V8aCb_OcYiiQU0WuO_tkH0wAJl1aeHDTjQO7K7f04AQ8qhEeq_slXcDVFCO7xpgOFfJg0SSvM7SE-WDUa3Zb1ijX-9NyMn-w4zctkuWO_L5xYjU1KtbqHs7Bx8Y_-2vHLOkLbom9A8TZ0OivXN6g92qvwH2R4UoB/s700/AL%20WAFA%20TARIM.png" group-title="Religi" ,Al Wafa Tarim
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
@@ -1580,13 +1576,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/in
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw3BoLEhTBQBs9hK7lqv-D8Qx9HgNnO1zCHvM9GSi8pC3uS9LzYxxmzy7BKoSFWceje4w-uwSf8bs21IShKrh_tx8J8ERSz7Nn4xCqfmGiHago50QwCuOYsskRPaHux-FK3A2tmgwOn4E-SU0U5nJGP7TlVXV59v8koyrRPv1aeyGNY6D15bkBCQlSG3x9/s700/REFORMED%2021.png" group-title="Religi",Reformed 21
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/index.mpd
 
-//========================================================================
+=========================================================================
 == Religion Channel ==
-//========================================================================
+=========================================================================
 
-//========================================================================
+=========================================================================
 == Sports Channel ==
-//========================================================================
+=========================================================================
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipXqydsv4Wk57HMXLX8nr7-aapEAKhQBt-APHVs9PWaEoDkUnLSn2TzDedulzLChZbBuz-cgLACaM1h-LaTLk366dnIOvzuYN0kyscfz1AmdjxuStolzoF7eaYa3OMjAwP0ddsxG0WG8mEtYl3bVEwhilDBVVbEQxlOVvoCFSanE_03sbyWTxVO03KF2E/s700/HubPremier1.png" group-title="Sports",Hub Premier 1
 https://7pal.short.gy/HPremier1
@@ -1824,13 +1820,13 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
-//========================================================================
+=========================================================================
 == Sports Channel ==
-//========================================================================
+=========================================================================
 
-//========================================================================
+=========================================================================
 == News Channel ==
-//========================================================================
+=========================================================================
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1874,13 +1870,13 @@ https://d3rzhldmr21hry.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/in
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw9h4ixBY6QUy9LuPme99IOUy4A3xt408sW8m4mLbXtwKvLWelA3dHI6RLTE92PUBxcM5k9xAHDGrJIWVhtxT16Us3t1YP0__mpAy_yxIYs3COPh7vd6F0r8FFiEU2FhKqUXxnrlOeBf61WlT9cQjXwt8cNqxvR4LCu8Mdh-EBd7Ei7CSdsgCX1JZAdmOY/s700/NHK%20WORLD%20PREMIUM.png" group-title="News", NHK World Premium
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
 
-//========================================================================
+=========================================================================
 == News Channel ==
-//========================================================================
+=========================================================================
 
-//========================================================================
+=========================================================================
 == Kids Channel ==
-//========================================================================
+=========================================================================
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtVjXBlqQAZS3p3ha_x6qwk3EhsaHXjjqgNWYhoCIdyeQkQKBY_Gws6_422fDlJBLL-cLOmgt0vhDmHO15GVDC8EKRAifRFWOhfE24ioM_zbTWtPhG3GGaBOpOocSnKlpCvPPxoXKgVKqqQ34bnUgCr5K0vVbz70zp3XX9Z66tCjxL0fzzdKcyRXM-zBs/s700/MtkMudah.jpg" group-title="Kids" , Matematika TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch80.m3u8
@@ -2020,13 +2016,13 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkey
 #EXTINF:-1 group-title="Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX7H5U3AAoOIVnXjILGM1a96O7BYlKTsENpQmHUOVZ3Ttz1lJA3uru0uC9O-RFs8ZDdDj5Ro6ZmeuviynnXB82xmLw18lu2h7c7m3SdlNUeB_A-7YxiuWjHXGgEz0fHN17FR0NEDsvy9BiU5TnTTtIkykbFkct_yZDzwdTmVYzA4oGHPFxJEN8OSAAo2MY/s700/PINKFONG%20TV.png",Pingfong TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
-//========================================================================
+=========================================================================
 == Kids Channel ==
-//========================================================================
+=========================================================================
 
-//========================================================================
+=========================================================================
 == Music Channel ==
-//========================================================================
+=========================================================================
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7_x-_SMVCCLYpgAds10TvGLLHkKFSnuUBW7DPJMT6Kuab2BhfoUqPDuTiiEJbeHezGXBsbVakkaoveXmOupj3CchOXPN7_omoongdi4nWt6zSbb8J8s0S5F52io8hZMOoLwo3aC0T2DsbwSfZLkoc6VpERI-k5rPmHZsSNgA73DU-HpxEqSK99gDklt4/s700/MusicTV.png",Music TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -2102,13 +2098,13 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFwGAI_yXtlnUsjfKGZd9_On3H7BApGtphdVrrj56YRpUSAK4fdQ0csX4sHAT_qInxObDLx3-RB_BNKjrFJjoOtB805jRlCws-NJ2RGAdvyF6XouS4c0DcWESZ9jer6ibYBIK-TzyCgBORIfhslLiL6EIiEJrZm0wOVPJw7rL_soG1iuDjxrP8u59aSCg/s700/CJENM.png" group-title="Music", K-PopByCjENM
 https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
 
-//========================================================================
+=========================================================================
 == Music Channel ==
-//========================================================================
+=========================================================================
 
-//========================================================================
+=========================================================================
 == Movie Channel ==
-//========================================================================
+=========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
@@ -2276,9 +2272,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQR-mi-WH7mdA9RogvrNdu7N9HF1y6D8zSJJG4JLxPLkqcATjgutlcDCjKi4oMGew-IBP2n2ibnXKwl6T56etT-NgT_OWWCCKYMWolZI3X_BjA1N3m1I9UIxc0ErZbrAOZuEej4bEkUepIlriiqYib0yt-q_hssAQqjME4YxVqBCK_x5os4AQ1W_reYRvb/s700/MY%20CINEMA%20EUROPE.png" group-title="Movies",My Cinema Europe
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
 
-//========================================================================
+=========================================================================
 == HBO Channel ==
-//========================================================================
+=========================================================================
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkI-QnpmtNsoMwaZ2zjOtNsiG7mXj9QOmeTGiUmffF0m_TTfXH_DTtm0ZwMmpqxK_beVkerFi6LtTo6_pGSOqe84M2kDol7YDGrVN-hmYygFHWCCA6ojHUvnkv0GyaLnDnZvizDJoWBj05T9J4Wc7d6CIgXdufYm6pjlP7l66hcIQqz4HCosx4-I0lzvOy/s700/HBO%20HD.png" group-title="Movies",HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
@@ -2295,16 +2291,16 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjgvIIQKQiVAnbTBFd4WRMJ8Hp831ngGwJ6fkMvTV9Ctxy0iaLYWbnJeP4uxntytGI1kFZGiti-SMOEvGlAxy_2o0pcU_NdCr0elKrR6R-4BpT4MEFSh3AxkpEKvsBlCamLIxQk1NfTziREdEiN3oPOXLzBZTSGRy86UOEzUXYSt0Zq2fk4muQpcdiehQ/s700/CINEMAX.png" group-title="Movies",Cinemax
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
 
-//========================================================================
+=========================================================================
 == HBO Channel ==
-//========================================================================
+=========================================================================
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvh5NojHs6q_T7RThei9QuVI0ghHJUb9vESHob3X325n1BoZiPx87-Qqp_6oyA_yqBC95_mWfJzMkAjOhzOFwlGKr2y62q-CXYLG6G1FAG2qJ87BtcrJVC-lGdXcXkArjQhHmHsgtYumEZuLL_dugPqz946gjnBYDCcZ78eMug2sg7cXdOp0UlIz9B8DQ/s700/KMovies.jpg" group-title="Movies",New Kmovies
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-//========================================================================
+=========================================================================
 == HBO Channel Start==
-//========================================================================
+=========================================================================
 
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvtn6h145m1jmm4iyra-nE47euBz2m6ud9P4Uujd7PECr145kQXZel3A1qH3wj747QDKFjBfEA_QFHXtcizkAMBCUI1zIHIAp-bsptaH-blh6M2xY6Sz4xyduamr3thcOYkDk20-kz6-LomHGCcPcav-In_eu88jwb1YMYgxaxYomjxY74C0vw7whBlsA/s700/HBOTV.png" group-title="HBO Group",HBOᴴᴰ
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -2346,9 +2342,9 @@ https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
 
-//========================================================================
+=========================================================================
 == HBO Channel End==
-//========================================================================
+=========================================================================
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC7ZqpjIQcBSVfcWI9OoTAf2R032NRJevw-keEbqSSK5OKbvLBHwTW8mC_P3YNmiTMW9ModXhBdcrxPyPmd11nnzcaAcnb6gI9l-_NzDqPDwK9uqAyQvzz3PlEVTH8V6j2nZAqP-Unh0fDxZvXo8Hvb3zue6I9q5TFAYuikHLEYUndd8XGa5RoCrfRLNgZ/s700/MNX%20HD.png" group-title="Movies",MNX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2365,9 +2361,9 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-//========================================================================
+=========================================================================
 == Max Channel ==
-//========================================================================
+=========================================================================
 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -2388,9 +2384,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 #EXTINF:-1 group-title="Max Group"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZnY419xIP_5KZFlUbt0i6LJpNQoKYmeyx7iLgnDF-D767qVtpw0207VNV9uQDYFjNYJEuJBp0DgDjMi9L7Gt5AuFUvuFWz725kXkln39914ov2inDuXQbSy24bE-xjqerKJPmbSu0HNlY50exWuByciCP7PFr4WKghobEHvpl-uzTnT1_BFTUy4Tz2wE/s700/MaxSports.png",Max Sports
 https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
-//========================================================================
+=========================================================================
 == Entertainment Channel ==
-//========================================================================
+=========================================================================
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2576,7 +2572,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPla
 #EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6PVY1M9RQsuRVREe5zmwK7l_Ic94K7OJJGRL5q8f7FBO3IOF1dlKPqqQqnYW190GMnc9MNYefKrirTTYR0G82wWkThWOR2GOpUvFbVlqIBQSTFGOnectN3hpnkJac38qG-3FaGoObPOnOstvU69Pw7fyzRLIGj-0gA1ZrRgVSl26RPPaPxGrM7PLWHLb/s700/LOVE%20NATURE.png" group-title="Lifestyle", Love Nature
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 
-//========================================================================
+=========================================================================
 == Entertainment Channel ==
-//========================================================================
+=========================================================================
 
