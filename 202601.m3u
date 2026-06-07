@@ -27,7 +27,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 #EXTINF:0, TRANS TV
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:0, Trans 7 
-https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/trans7/manifest.mpd
 #EXTINF:0, RTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -195,7 +195,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 #EXTINF:0, THRILL
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
+https://indihuy.streamized.net/atm/DASH//thrill/manifest.mpd
 #EXTINF:0, KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
@@ -276,7 +276,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 #EXTINF:0, FUN PLANET
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
 #EXTINF:0, ANIPLUS
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -968,7 +968,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 #EXTINF:0 group-title="MOVIES",MAKKAH LIVE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 #EXTINF:0 group-title="MOVIES",HBO
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
 #EXTINF:0 group-title="MOVIES",HBO+
 http://play.dnsrot.vip/live/silvan9966/ji1m1shoaet/37083.ts
 #EXTINF:0 group-title="MOVIES",HBO 2
@@ -978,13 +978,13 @@ http://play.dnsrot.vip/live/silvan9966/ji1m1shoaet/36911.ts
 #EXTINF:0 group-title="MOVIES",HBO XTREME
 http://play.dnsrot.vip/live/silvan9966/ji1m1shoaet/37074.ts
 #EXTINF:0 group-title="MOVIES",HBO HITS
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
 #EXTINF:0 group-title="MOVIES",HBO FAMILY
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
 #EXTINF:0 group-title="MOVIES",HBO SIGNATURE
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:0 group-title="MOVIES",CINEMAX
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
 #EXTINF:0 group-title="MOVIES",CELEBRITIES TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT",TLC HD
@@ -1010,7 +1010,7 @@ https://familyhls.avatv.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="MOVIES",CCM
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 #EXTINF:0 group-title="MOVIES",ROCK ENTERTAINMENT
-https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd
 #EXTINF:0 group-title="MOVIES",ZEE BIOSKOP
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
 #EXTINF:0 group-title="MOVIES",MY CINEMA ASIA
@@ -1095,37 +1095,37 @@ http://139.99.60.114:14052/
 
 
 #EXTINF:-1,HBO HD
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
 
 #EXTINF:-1,HBO HITS
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
 
 #EXTINF:-1,HBO SIGNATURE
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 
 #EXTINF:-1,HBO FAMILY
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
 
 #EXTINF:-1,CINEMAX
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1,ROCK ACTION
-https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTINF:-1,ROCK ENTERTAINMENT
-https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd
 
 #EXTINF:-1,THRILL
-https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/thrill/manifest.mpd
 
 #EXTINF:-1,AXN
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
 
 #EXTINF:-1,HITS NOW
-https://cdn10jtedge.indihometv.com/atm/DASH/hitsnow/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hitsnow/manifest.mpd
 
 #EXTINF:-1,Studio Universal
-https://cdn10jtedge.indihometv.com/atm/DASH/studiouniversal/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/studiouniversal/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="HBO1" tvg-name="HBO 1" tvg-logo="" group-title="ENTERTAINMENT",HBO 1
@@ -1152,4 +1152,4 @@ https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 #EXTINF:-1 tvg-id="WARNER_TV" tvg-name="Warner TV" tvg-logo="" group-title="ENTERTAINMENT",Warner TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
