@@ -521,7 +521,7 @@ https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpS0ZqVN/JTV.png" group-title="DAERAH",JTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/jtv/manifest.mpd
 
 =======================================
 
@@ -696,27 +696,27 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 =======================================
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/qMWw8Tph/HBO.png" group-title="MOVIES" , HBO
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
 
 =======================================
 
 #EXTINF:-1 tvg-id="hbohitsasia" tvg-logo="https://i.ibb.co.com/CpFzG9rS/HBO-HITS.png" group-title="MOVIES", HBO Hits
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
 
 =======================================
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png",HBO Family
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
 
 =======================================
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png",HBO Signature
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 
 =======================================
 
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://i.ibb.co.com/0pWPCfLb/CINEMAX.png" group-title="MOVIES", CINEMAX
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
 
 =======================================
 
@@ -775,7 +775,7 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 #EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.ibb.co.com/1GsXBNwz/K.png" group-title="MOVIES",K+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.ibb.co.com/1GsXBNwz/K.png" group-title="MOVIES",K+
@@ -950,7 +950,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd
 
 =======================================
 
@@ -975,7 +975,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn10jtedge.indihometv.com/atm/DASH/bioskopindonesia/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-id="bioskop indonesia" tvg-logo="https://i.ibb.co.com/chVJ3ddY/BI.png" group-title="MOVIES",BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1970,7 +1970,7 @@ http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
  #EXTINF:-1 tvg-id="mtv" tvg-logo="https://iili.io/JZIQRHv.png" group-title="MUSIC",MTV Live
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/MTV_LIVE/manifest.mpd
 
 =======================================
 
@@ -2156,7 +2156,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/ind
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 
 =======================================
 
@@ -2208,7 +2208,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9f
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
 
 =======================================
 
@@ -2439,7 +2439,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta1-cdn-flr.visionplus.id/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="WION" tvg-logo="https://iili.io/JhksEFV.png" group-title="WORLD NEWS",WION
